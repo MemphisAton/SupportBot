@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../pythonProject/features/.idea/features.iml" filepath="$PROJECT_DIR$/../pythonProject/features/.idea/features.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pythonBotEmail.iml" filepath="$PROJECT_DIR$/.idea/pythonBotEmail.iml" />
     </modules>
   </component>
