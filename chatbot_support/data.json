@@ -1,0 +1,63 @@
+{
+    "en": {
+        "questions": {
+            "name": "<b>1/4</b>\nEnter your name:",
+            "email": "<b>2/4</b>\nEnter your email address:",
+            "game": "<b>3/4</b>\nSelect the game in which the bug was found:",
+            "report": "<b>4/4</b>\nDescribe the bug you found:"
+        },
+        "process_start_command": {
+            "start of the survey": "Choose an action:",
+            "btn_1": "📝 Fill out the following form:",
+            "btn_2": "🌐 Go to our site"
+        },
+        "input_field_placeholder": "Choose a game from below:",
+        "final": {
+            "text_ok": "Your message has been sent. Thank you for using the bot!",
+            "text_time": "You can send the following report only after:",
+            "text_no_ok": "An error occurred while sending your message.\nTry again in a few minutes."
+        },
+        "report_entered": {
+            "btn_1": "✅ Yes, send the report",
+            "btn_2": "❌ No, reenter the report",
+            "name_tabl": "Check the data that will be shared with the developers:"
+        },
+        "email_error": "You must enter a mail format:\nxxxxxx@xxx.xxx",
+        "wrong_format": "Wrong format message entered, please re-enter",
+        "wrong_email_text": "You must enter the mail format:\nxxxxxx@xxx.xxx"
+    },
+    "ru": {
+        "questions": {
+            "name": "<b>1/4</b>\nВведите ваше имя:",
+            "email": "<b>2/4</b>\nВведите адрес вашей электронной почты:",
+            "game": "<b>3/4</b>\nВыберите игру в которой обнаружен баг:",
+            "report": "<b>4/4</b>\nОпишите выявленную ошибку:"
+        },
+        "process_start_command": {
+            "start of the survey": "Выберите действие:",
+            "btn_1": "📝 Заполните следующую форму:",
+            "btn_2": "🌐 Перейти на наш сайт"
+        },
+        "input_field_placeholder": "Выберите игру снизу:",
+        "final": {
+            "text_ok": "Ваше сообщение отправлено.\nСпасибо, что воспользовались ботом!",
+            "text_time": "Вы можете отправить следующее сообщение только через:",
+            "text_no_ok": "При отправке вашего сообщения произошла ошибка.\nПопробуйте повторить через несколько минут."
+        },
+        "report_entered": {
+            "btn_1": "✅ Да, отправить данные",
+            "btn_2": "❌ Нет, ввести данные заного",
+            "name_tabl": "Проверьте данные, которые будут переданы разработчикам:"
+        },
+        "email_error": "Необходимо ввести почту формата:\nxxxxxx@xxx.xxx",
+        "wrong_format": "Введено сообщение неправильного формата, пожалуйста повторите ввод",
+        "wrong_email_text": "Необходимо ввести почту формата:\nxxxxxx@xxx.xxx"
+    },
+    "games": [
+        "Magic Jewel Quest",
+        "Jewels Maya Quest",
+        "Royal Candy Mania"
+    ],
+    "email_pattern": "^[\\w\\.-]+@[\\w\\.-]+\\.\\w+$",
+    "siteUrl": "https://heroes-team.com/"
+}
